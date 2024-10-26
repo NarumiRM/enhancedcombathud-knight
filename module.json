@@ -1,7 +1,7 @@
 {
   "id": "enhancedcombathud-knight",
   "title": "Argon - Combat HUD (Knight)",
-  "description": "",
+  "description": "Knight System Argon integration",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 12,
